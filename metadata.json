@@ -1,0 +1,6 @@
+{
+  "name": "SEARX AI",
+  "description": "Universal Video Downloader - Fast multi-platform video and audio downloader with quality selection, concurrent downloads, and media manager",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
